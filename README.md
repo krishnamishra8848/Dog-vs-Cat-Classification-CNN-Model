@@ -1,16 +1,13 @@
-<h2>Image Classification Model</h2>
-Overview
+<h2>Dog vs Cat Image Classification Model</h2>
+
+<h3>Overview</h3>
+
 This project involves training and evaluating a Convolutional Neural Network (CNN) for classifying images into two categories: Cats and Dogs. The model was built using TensorFlow and Keras, and it leverages transfer learning for improved performance. The dataset consists of images collected from the Pexels API.
 
-Project Structure
-model_training.ipynb: Jupyter notebook for training the CNN model.
-best_model.h5: Saved model with the best performance on validation data.
-predict_images.py: Script for predicting image classes from a directory.
-/content/pexels_images/: Directory containing images for testing.
-Dataset
-The dataset used for training the model includes images of cats and dogs. The images were collected using the Pexels API.
+<h3>Dataset</h3>
+The dataset used for training the model includes images of cats and dogs. The images were collected using the legal.
 
-Model Details
+<h3>Model Details</h3>
 Architecture: Convolutional Neural Network (CNN)
 Epochs: 20
 Learning Rate: Initial rate of 0.001, reduced during training
@@ -24,5 +21,6 @@ Final Training Accuracy: 94.12%
 Final Validation Accuracy: 87.05%
 Test Accuracy: 88.98%
 Test Loss: 0.3217
-Prediction Results
-The model was evaluated on 80 images, of which it successfully predicted 49 as cats. This indicates a good performance in identifying cats among the images.
+
+<h3>Prediction Results</h3>
+On a test set of 80 images, the model accurately predicted 49 images
