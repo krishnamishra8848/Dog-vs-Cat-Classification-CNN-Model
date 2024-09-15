@@ -2,10 +2,10 @@
 
 <h3>Overview</h3>
 
-This project involves training and evaluating a Convolutional Neural Network (CNN) for classifying images into two categories: Cats and Dogs. The model was built using TensorFlow and Keras.The dataset consists of images collected from the Kegal.
+This project involves training and evaluating a Convolutional Neural Network (CNN) for classifying images into two categories: Cats and Dogs. The model was built using TensorFlow and Keras.The dataset consists of images collected from the Kaggle.
 
 <h3>Dataset</h3>
-The dataset used for training the model includes images of cats and dogs. The images were collected using the kegal.
+The dataset used for training the model includes images of cats and dogs. The images were collected using the kaggle.
 
 <h3>Model Details</h3>
 Architecture: Convolutional Neural Network (CNN)
