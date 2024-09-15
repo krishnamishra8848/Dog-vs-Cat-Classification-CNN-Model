@@ -1,4 +1,4 @@
-Image Classification Model
+<h2>Image Classification Model</h2>
 Overview
 This project involves training and evaluating a Convolutional Neural Network (CNN) for classifying images into two categories: Cats and Dogs. The model was built using TensorFlow and Keras, and it leverages transfer learning for improved performance. The dataset consists of images collected from the Pexels API.
 
